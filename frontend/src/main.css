@@ -1,0 +1,32 @@
+.note {
+    font-size: small;
+    font-weight: 500;
+    padding: 15px;
+}
+
+.ImageClassification {
+    width: 100%;
+    height: 50%;
+    background-image: url("./Image_Classification.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.objectDetection {
+    width: 100%;
+    height: 50%;
+    background-image: url("./objectDetection.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.poster {
+    width: 100%;
+    height: 50%;
+    background-image: url("./poster.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

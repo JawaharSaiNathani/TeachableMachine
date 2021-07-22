@@ -1,0 +1,33 @@
+.class {
+    padding-top: 40px;
+    padding-left: 15%;
+}
+
+.uploadSection {
+    padding: 20px;
+}
+
+.dragAndDropSection {
+    height: 200px;
+    background-image: url("./draganddropbackgroung.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.addClass {
+    padding: 20px;
+    line-height: 50px;
+    text-align: center;
+    height: 50px;
+    background-color: #F5F5F5;
+    border-radius: 25px;
+    border: 2px dashed darkgrey;
+    color: grey;
+}
+
+.addClass:hover {
+    border: 2px dashed #eb0029;
+    color: #eb0029;
+    cursor: pointer;
+}
