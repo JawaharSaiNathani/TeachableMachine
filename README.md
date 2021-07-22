@@ -71,8 +71,3 @@ cd Backend
 source bin/activate
 python app.py
 ```
-
-Download catVSdog and rickVSmorty models from Google Drive into paths mentioned below.
-
-- catVSdog  - ``` Backend/Image_Classification/catVSdog/```
-- rickVSmorty - ```Backend/Image_Classification/rickVSmorty/```
