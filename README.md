@@ -52,7 +52,7 @@ npm install
 
 Backend Libraries Installation
 ```
-# Backend comes with preinstalled libraries. If you run into any trouble run the following commands to install required libraries.
+# Download and update Backend libraries and models from Google Drive at their respective paths. If you still run into any trouble run the following commands.
 cd Backend
 source bin/activate
 pip install -r requirements.txt
